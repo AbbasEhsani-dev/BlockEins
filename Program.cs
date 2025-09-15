@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿internal class Program
+{
+    private static void Main(string[] args)
+    {
+        // Aufgabe 1
+        // string name = Console.ReadLine();
+        Console.WriteLine("Hallo{name, schön dass du da bist");
+    }
+}
