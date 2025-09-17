@@ -45,3 +45,4 @@ C:\M319\BlockEins\obj\Debug\net9.0\BlockEins.pdb
 C:\M319\BlockEins\obj\Debug\net9.0\BlockEins.genruntimeconfig.cache
 C:\M319\BlockEins\obj\Debug\net9.0\ref\BlockEins.dll
 >>>>>>> e9a800a39d5905603aaa309631f685b208327375
+C:\ProjectsC#\BlockEins\obj\Debug\net9.0\BlockEins.sourcelink.json
