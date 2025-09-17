@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\ProjectsC#\BlockEins\bin\Debug\net9.0\BlockEins.exe
 C:\ProjectsC#\BlockEins\bin\Debug\net9.0\BlockEins.deps.json
 C:\ProjectsC#\BlockEins\bin\Debug\net9.0\BlockEins.runtimeconfig.json
@@ -27,3 +28,20 @@ C:\Users\aehsani\source\repos\BlockEins\obj\Debug\net9.0\refint\BlockEins.dll
 C:\Users\aehsani\source\repos\BlockEins\obj\Debug\net9.0\BlockEins.pdb
 C:\Users\aehsani\source\repos\BlockEins\obj\Debug\net9.0\BlockEins.genruntimeconfig.cache
 C:\Users\aehsani\source\repos\BlockEins\obj\Debug\net9.0\ref\BlockEins.dll
+=======
+C:\M319\BlockEins\bin\Debug\net9.0\BlockEins.exe
+C:\M319\BlockEins\bin\Debug\net9.0\BlockEins.deps.json
+C:\M319\BlockEins\bin\Debug\net9.0\BlockEins.runtimeconfig.json
+C:\M319\BlockEins\bin\Debug\net9.0\BlockEins.dll
+C:\M319\BlockEins\bin\Debug\net9.0\BlockEins.pdb
+C:\M319\BlockEins\obj\Debug\net9.0\BlockEins.GeneratedMSBuildEditorConfig.editorconfig
+C:\M319\BlockEins\obj\Debug\net9.0\BlockEins.AssemblyInfoInputs.cache
+C:\M319\BlockEins\obj\Debug\net9.0\BlockEins.AssemblyInfo.cs
+C:\M319\BlockEins\obj\Debug\net9.0\BlockEins.csproj.CoreCompileInputs.cache
+C:\M319\BlockEins\obj\Debug\net9.0\BlockEins.sourcelink.json
+C:\M319\BlockEins\obj\Debug\net9.0\BlockEins.dll
+C:\M319\BlockEins\obj\Debug\net9.0\refint\BlockEins.dll
+C:\M319\BlockEins\obj\Debug\net9.0\BlockEins.pdb
+C:\M319\BlockEins\obj\Debug\net9.0\BlockEins.genruntimeconfig.cache
+C:\M319\BlockEins\obj\Debug\net9.0\ref\BlockEins.dll
+>>>>>>> e9a800a39d5905603aaa309631f685b208327375

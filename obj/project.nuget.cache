@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "vv2rg23F5Wg=",
   "success": true,
   "projectFilePath": "C:\\ProjectsC#\\BlockEins\\BlockEins.csproj",
+=======
+  "dgSpecHash": "hFhAbtpCFYE=",
+  "success": true,
+  "projectFilePath": "C:\\M319\\BlockEins\\BlockEins.csproj",
+>>>>>>> e9a800a39d5905603aaa309631f685b208327375
   "expectedPackageFiles": [],
   "logs": []
 }
